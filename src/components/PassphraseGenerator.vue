@@ -3,7 +3,7 @@
     <div class="col-12 col-md-4">
       <q-card>
         <q-card-section class="bg-primary text-white">
-          <div class="text-h6">Passphrase options</div>
+          <div class="text-h5">Passphrase options</div>
         </q-card-section>
 
         <q-separator />
@@ -62,7 +62,7 @@
     <div class="col">
       <q-card>
         <q-card-section class="bg-primary text-white">
-          <div class="text-h6">Passphrases</div>
+          <div class="text-h5">Passphrases</div>
         </q-card-section>
         <q-card-section>
           <q-list>
