@@ -9,6 +9,10 @@ const routes = [
         component: () => import("../pages/IpSubnetCalcPage.vue")
       },
       {
+        path: "/my-public-ip",
+        component: () => import("../pages/MyPublicIpPage.vue")
+      },
+      {
         path: "/passphrase-generator",
         component: () => import("../pages/PassphraseGeneratorPage.vue")
       }
