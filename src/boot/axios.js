@@ -7,8 +7,9 @@ import axios from "axios";
 // Note that if we wouldn't set any config here we do not need
 // a named export, as we could just `import axios from 'axios'`
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:7071/api"
-  // baseURL: "https://api.proutils.com/api"
+  // baseURL: "http://localhost:7071/api"
+  baseURL: "https://proutils-api.azurewebsites.net/api",
+  headers: {'x-functions-key': '/mX2wC1cafEmdrvbJ3brCq00aAosjMKiVzUDYLlJVgHOptaKI/13VQ=='}
 });
 
 // for use inside Vue files through this.$axios
