@@ -20,6 +20,6 @@
 
 <script>
 export default {
-  name: "DrawerMenu"
+  name: "DrawerMenu",
 };
 </script>

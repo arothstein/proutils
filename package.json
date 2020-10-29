@@ -1,7 +1,7 @@
 {
   "name": "proutils",
   "version": "0.0.1",
-  "description": "A collection of web-based \"utilities\" for IT \"Pros\".",
+  "description": "A collection of web-based utilities for IT Pros.",
   "productName": "ProUtils",
   "author": "Aaron Rothstein <aaron.rothstein@wunita.com>",
   "private": true,
