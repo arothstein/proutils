@@ -113,7 +113,7 @@ module.exports = function(/* ctx */) {
       manifest: {
         name: `ProUtils`,
         short_name: `ProUtils`,
-        description: `A collection of web-based \"utilities\" for IT \"Pros\".`,
+        description: `A collection of web-based utilities for IT Pros.`,
         display: "standalone",
         orientation: "portrait",
         background_color: "#ffffff",
